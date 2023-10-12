@@ -1,0 +1,11 @@
+@charset " UTF-8" 
+ body {font-family: Verdana, Geneva, Tahoma, sans-serif;
+      background-color:lightgreen;
+      font-size:20px;}   
+    
+
+h1{ background-color:aqua;}
+H2{color: blue;} 
+h4{ background-color: gold;}
+h5{ color:green;}
+p{ text-align: justify;}
